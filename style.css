@@ -1,0 +1,51 @@
+body{
+    background-color: #f7e582;
+}
+
+h1{
+    color: #ff383f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+#container{
+    max-width: 800px;
+    margin: auto;
+
+}
+#input{
+    width: 80%;
+    height: 35px;
+    margin-bottom: 30px;
+    border: none;
+}
+
+#add{
+    width: 100px;
+    height: 35px;
+    background-color:#ff383f;
+    color: white;
+    border-radius: 90px;
+    border: none;
+}
+
+#ListTasks{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19pt;
+    text-align: center;
+    list-style-type: lower-greek ;
+    list-style-position: inside;
+    background-color: #efefef;
+    width: 60%;
+    height: 500px;
+    margin: auto;
+    border-radius: 90px;
+    padding: 10px;
+
+}
+
+footer {
+    text-align: center;
+    font: normal;
+    color: #ff383f;
+}
+
