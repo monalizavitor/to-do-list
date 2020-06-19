@@ -43,6 +43,11 @@ h1{
 
 }
 
+ul{
+       list-style: none;
+
+}
+
 footer {
     text-align: center;
     font: normal;
